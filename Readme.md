@@ -25,7 +25,7 @@ Refer [3SAT.ipynb](https://github.com/slytechiefrommagentashore/cs302_Aritificia
 Non-deterministic Search | Simulated Annealing
 For problems with large search spaces, randomized search becomes a meaningful option given
 partial/ full-information about the domain.<br>
-Reference:
+Reference:<br>
 [1] A first course in Artificial Intelligence, Deepak Khemani (Chapter 4)
 Problem: <br>
 Travelling Salesman Problem (TSP) is a hard problem, and is simple to state. Given a graph in which the nodes are locations of cities, and edges are labelled with the cost of travelling between cities, find a cycle containing each city exactly once, such that the total cost of the tour is as low as possible.Refer [tsp_lab3_.ipynb](https://github.com/slytechiefrommagentashore/cs302_AritificialIntelligence/blob/main/Lab%203%20Assignment/Lab%203%20Assignment%20_TSP%20problem/tsp_Lab3_.ipynb)<br>
